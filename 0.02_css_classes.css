@@ -1,9 +1,13 @@
 body	{
-	background-color: #FAEBD7
+	background-color: #faf9d7
 }
 .css-classes {
 	background-color: red;
 }
 li	{
 	color: navy;
+}
+.ccs-classes p{
+	font-size: 16;
+	color: green;
 }
