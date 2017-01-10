@@ -1,0 +1,11 @@
+body 	{
+	background-color: rgba(210, 108, 0, 0.58);
+}
+img		{
+	background-color: white;
+	height: 400px;
+	width: 300px;
+}
+fieldset	{
+	border-color: pink;
+}
