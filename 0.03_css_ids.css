@@ -1,9 +1,12 @@
+/*To target class in a CSS file use a . before it*/
+/*color will change the font color*/
 .first-class{
 	color: green;
 }
 .second-class{
 	font-size: 30px;
 }
+/*To target ID in a CSS file use a # before it.*/
 #number-one{
 	color: red;
 }
